@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/chilis.com',
+		'https://logo.clearbit.com/wendys.com',
+		'https://logo.clearbit.com/bechtel.com',
+		'https://logo.clearbit.com/dana.com'
+	]}
+/>
 
 <Summary
 	generating
